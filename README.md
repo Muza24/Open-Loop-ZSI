@@ -1,1 +1,1 @@
-# Open-Loop-ZSI
+This project demonstrates the working of a Three Phase Inverter supplied from an Impedance Source Inverter (ZSI). The ZSI boosts the DC input voltage in order to match the AC grid requirements. The LCL filters helps to smoothening the AC waveforms and provide a better output. The THD of the AC output is at 1.9 %. 
